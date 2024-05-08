@@ -1,2 +1,2 @@
 # BlackJack
-Projeto de Java do Jogo BlackJack
+Projeto de Java do jogo: BlackJack
